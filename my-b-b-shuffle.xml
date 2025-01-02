@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>b-b-shuffle</Name>
+  <Repository>jonesckevin/b-b-shuffle</Repository>
+  <Registry>https://hub.docker.com/r/jonesckevin/b-b-shuffle/</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://github.com/jonesckevin/b-b-shuffle</Support>
+  <Project/>
+  <Overview>Backdoors &amp;amp; Breaches is the property of Black Hills InfoSec. &#xD;&#xD;https://hub.docker.com/r/jonesckevin/b-b-shuffle/</Overview>
+  <Category>GameServers: Security:</Category>
+  <WebUI>http://[IP]:[PORT:8080]</WebUI>
+  <TemplateURL/>
+  <Icon>https://raw.githubusercontent.com/Jonesckevin/dashboard-icons/refs/heads/main/png/b-b-shuffle.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1735796645</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <Config Name="WebUI Port" Target="80" Default="80" Mode="tcp" Description="" Type="Port" Display="always" Required="true" Mask="false">8080</Config>
+</Container>
